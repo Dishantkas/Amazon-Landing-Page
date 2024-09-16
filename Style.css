@@ -299,3 +299,8 @@ body{
     width: 100px;
     background-size: cover;
 }
+@media (max-width:600px){
+ .list{
+    font-size: 2px;
+ }
+}
